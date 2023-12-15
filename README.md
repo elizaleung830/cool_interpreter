@@ -1,4 +1,6 @@
 # First time running in window:
+0.Download the code from this respoitory and ensure python is installed in your computer
+
 1.navigate to the directory for manage.py in terminal using cd command
 for example using "cd C:\Users\eliza\Desktop\Psedo_Interpreter\Psedocode_interpreter\SDDWeb"
 
