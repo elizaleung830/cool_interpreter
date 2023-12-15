@@ -1,5 +1,5 @@
 # First time running in window:
-1. navigate to the directory for manage.py in terminal using cd command
+navigate to the directory for manage.py in terminal using cd command
 for example using "cd C:\Users\eliza\Desktop\Psedo_Interpreter\Psedocode_interpreter\SDDWeb"
 
 2.run this command in terminal : pip install virtualenv
